@@ -6,7 +6,7 @@ A Local Python BlockChain with Hashing
 Source code
 
 ```bash
-git clone https://github.com/bharathajjarapu/PyChainn.git
+git clone https://github.com/bharathajjarapu/PyChain.git
 ```
 
 ## Usage
